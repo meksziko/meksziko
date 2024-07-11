@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meksziko
+- 👋 Hi, I’m @meksziko 🌟
 - 👀 I’m interested in automating tasks and creating forms
 - 🌱 I’m currently learning Phyton 🐍
 - 💞️ I’m looking to collaborate on innovative projects that leverage my expertise in creating dynamic forms, customized approval workflows, and responsive designs using Jotform.
